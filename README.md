@@ -1,4 +1,4 @@
-# Quest Basic Kotlin - Pertemuan 2
+<img width="1919" height="1079" alt="Screenshot 2026-09-24 201018" src="https://github.com/user-attachments/assets/b621c3eb-d11b-4685-a34c-0fe24d6ac19d" /># Quest Basic Kotlin - Pertemuan 2
 
 Repositori ini berisi dokumentasi dan hasil praktikum **Basic Kotlin (Pertemuan 2)** yang dijalankan menggunakan platform **Kotlin Playground**.
 
@@ -42,6 +42,18 @@ Berikut adalah dokumentasi tangkapan layar penuh (*fullscreen*) untuk setiap sub
   <img width="1919" height="1079" alt="Screenshot 2026-09-24 200713" src="https://github.com/user-attachments/assets/807d4fc3-8c0f-486f-8751-65ad6d4b9865" />
   <img width="1919" height="1079" alt="Screenshot 2026-09-24 200835" src="https://github.com/user-attachments/assets/e7f9543f-7c09-4d15-a1d2-cfe31bd4d939" />
   <img width="1919" height="1079" alt="Screenshot 2026-09-24 200809" src="https://github.com/user-attachments/assets/949bc781-3f4b-41fe-9b56-c9f128c64cee" />
-  
+---
+
+### 5. Classes and Data Classes
+- **Class, Properties, dan Data Class (.copy(), .toString())**:
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 200939" src="https://github.com/user-attachments/assets/8018a5b9-fe58-4015-9494-973ed535ebe2" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 201018" src="https://github.com/user-attachments/assets/d17977e9-6f75-4c93-9230-bd9553cb4a72" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 201041" src="https://github.com/user-attachments/assets/1d69469f-5070-4927-8c8b-ae63c4ba32ea" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 201735" src="https://github.com/user-attachments/assets/a24fd151-2ca4-4f26-8989-d33e6477a6b6" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 201804" src="https://github.com/user-attachments/assets/c1b9c443-3526-4693-8e14-34a61cccbce1" />
+
+
+
+
 
 
