@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="Screenshot 2026-09-24 201018" src="https://github.com/user-attachments/assets/b621c3eb-d11b-4685-a34c-0fe24d6ac19d" /># Quest Basic Kotlin - Pertemuan 2
+# Quest Basic Kotlin - Pertemuan 2
 
 Repositori ini berisi dokumentasi dan hasil praktikum **Basic Kotlin (Pertemuan 2)** yang dijalankan menggunakan platform **Kotlin Playground**.
 
@@ -51,6 +51,16 @@ Berikut adalah dokumentasi tangkapan layar penuh (*fullscreen*) untuk setiap sub
   <img width="1919" height="1079" alt="Screenshot 2026-09-24 201041" src="https://github.com/user-attachments/assets/1d69469f-5070-4927-8c8b-ae63c4ba32ea" />
   <img width="1919" height="1079" alt="Screenshot 2026-09-24 201735" src="https://github.com/user-attachments/assets/a24fd151-2ca4-4f26-8989-d33e6477a6b6" />
   <img width="1919" height="1079" alt="Screenshot 2026-09-24 201804" src="https://github.com/user-attachments/assets/c1b9c443-3526-4693-8e14-34a61cccbce1" />
+
+---
+
+### 6. Null Safety
+- **Nullable Types (`?`), Safe Call (`?.`), dan Elvis Operator (`?:`)**
+  <img width="1919" height="1064" alt="Screenshot 2026-09-24 201909" src="https://github.com/user-attachments/assets/7579e547-5086-4117-be95-d14d3592aa14" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 201931" src="https://github.com/user-attachments/assets/cb6e5445-71d3-4c97-9ef4-2ae4caeb37cc" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 201951" src="https://github.com/user-attachments/assets/c39a75f8-d1b3-48cd-a9ae-8cee6206f704" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 202009" src="https://github.com/user-attachments/assets/47034847-f94d-4db3-9f6a-aca2674ca03b" />
+
 
 
 
