@@ -36,5 +36,12 @@ Berikut adalah dokumentasi tangkapan layar penuh (*fullscreen*) untuk setiap sub
   <img width="1919" height="1079" alt="Screenshot 2026-09-24 200631" src="https://github.com/user-attachments/assets/66c5beda-33b3-42fc-afd1-60392708f18a" />
   <img width="1919" height="1079" alt="Screenshot 2026-09-24 200542" src="https://github.com/user-attachments/assets/d7cc01cb-7495-49aa-a602-591733c1ec68" />
 ---
+### 4. Functions and Lambdas
+- **Fungsi, Parameter Default, dan Lambda Expression**:
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 200653" src="https://github.com/user-attachments/assets/005e8dc8-4605-49e3-864c-9c68969ffd63" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 200713" src="https://github.com/user-attachments/assets/807d4fc3-8c0f-486f-8751-65ad6d4b9865" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 200835" src="https://github.com/user-attachments/assets/e7f9543f-7c09-4d15-a1d2-cfe31bd4d939" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 200809" src="https://github.com/user-attachments/assets/949bc781-3f4b-41fe-9b56-c9f128c64cee" />
+  
 
 
