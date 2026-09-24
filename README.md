@@ -29,12 +29,12 @@ Berikut adalah dokumentasi tangkapan layar penuh (*fullscreen*) untuk setiap sub
 
 ### 3. Control Flow
 - **Conditional Expressions (If - Else)**:
-<img width="1919" height="1079" alt="Screenshot 2026-09-24 200048" src="https://github.com/user-attachments/assets/1a6abee7-695e-43b4-acf9-7adb1bdcf5f2" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 200048" src="https://github.com/user-attachments/assets/1a6abee7-695e-43b4-acf9-7adb1bdcf5f2" />
 - **Conditional Expressions (When Expression)**:
   <img width="1919" height="1079" alt="Screenshot 2026-09-24 200443" src="https://github.com/user-attachments/assets/517f00a3-3046-4981-9c3d-5076c1dd9839" />
 - **Loops & Ranges (For Loop)**:
   <img width="1919" height="1079" alt="Screenshot 2026-09-24 200631" src="https://github.com/user-attachments/assets/66c5beda-33b3-42fc-afd1-60392708f18a" />
-<img width="1919" height="1079" alt="Screenshot 2026-09-24 200542" src="https://github.com/user-attachments/assets/d7cc01cb-7495-49aa-a602-591733c1ec68" />
+  <img width="1919" height="1079" alt="Screenshot 2026-09-24 200542" src="https://github.com/user-attachments/assets/d7cc01cb-7495-49aa-a602-591733c1ec68" />
 ---
 
 
